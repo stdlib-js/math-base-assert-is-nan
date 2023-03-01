@@ -91,7 +91,7 @@ bool = isnan( 5.0 );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/math/base/assert/is-nanf`][@stdlib/math/base/assert/is-nanf]</span><span class="delimiter">: </span><span class="description">test if a single-precision floating-point numeric value is NaN.</span>
+-   <span class="package-name">[`@stdlib/math-base/assert/is-nanf`][@stdlib/math/base/assert/is-nanf]</span><span class="delimiter">: </span><span class="description">test if a single-precision floating-point numeric value is NaN.</span>
 
 </section>
 
