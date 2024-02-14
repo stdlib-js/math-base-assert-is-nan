@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isnan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-nan@deno/mod.js';
+import isnan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-nan@v0.2.0-deno/mod.js';
 ```
 
 #### isnan( x )
@@ -65,7 +65,7 @@ var bool = isnan( NaN );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isnan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-nan@deno/mod.js';
+import isnan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-nan@v0.2.0-deno/mod.js';
 
 var bool = isnan( NaN );
 // returns true
